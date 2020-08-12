@@ -12,7 +12,7 @@ public class Gugudan1 {
 //		System.out.println(Gugu[i]);
 //		}
 //	}
-		//皋家靛 积己
+//		//皋家靛 积己
 		//拌魂何盒
 		public static int[] cal(int num) {
 			int []Gugu = new int[9];

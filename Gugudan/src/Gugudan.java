@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Gugudan {
 
 	public static void main(String[] args) {
-		//2´Ü
+//		//2´Ü
 //		System.out.println("2´Ü");
 //		System.out.println(2*1);
 //		System.out.println(2*2);

@@ -2,7 +2,7 @@ package Gugudanclass;
 
 public class GuguDAO {
 
-	//계산부분
+//	//계산부분
 	public int[] cal(int num) {
 		int []Gugu = new int[9];
 		for(int i=1;i<=Gugu.length;i++) {

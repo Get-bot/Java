@@ -3,7 +3,7 @@ package Gugudanclass;
 import java.util.Scanner;
 
 public class lastGugu {
-
+//
 	public static void main(String[] args) {
 /*사용자가 입력한 값에 따라 크기가 다른 구구단을 계산해 출력한다.
 예를 들어 사용자가 8을 입력하면 팔팔단, 19를 입력하면 십구십구단(2 * 1에서 19 * 19)
@@ -29,7 +29,7 @@ public class lastGugu {
 				System.out.println(i+"x"+j+"="+result);
 			}
 		}
-			
+//			
 		sc.close();
 	}
 

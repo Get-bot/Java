@@ -3,7 +3,7 @@ package Gugudanclass;
 public class GuguMain {
 
 	public static void main(String[] args) {
-		//클래스 이용 구구단출력
+//		//클래스 이용 구구단출력
 		GuguDAO gu = new GuguDAO();
 		int[] Gugu2=gu.cal(2);
 		gu.calPrint(Gugu2);
