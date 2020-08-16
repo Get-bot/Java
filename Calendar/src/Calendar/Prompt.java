@@ -2,7 +2,7 @@ package Calendar;
 
 import java.util.*;
 
-
+//요일 입력 ver
 public class Prompt {
 	/**
 	 * 
